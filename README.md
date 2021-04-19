@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects and Deep Learning Projects**
 
-- 📫 How to reach me **jaiswalamit345@gmail.com**
+- 📫 How to reach me **jaiswalamit345@gmail.com Or send a messeage on Linkedin**
 
 - ⚡ My Strengths are **I am Positive & Solution Oriented Person**
 
