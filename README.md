@@ -1,5 +1,4 @@
 ![Screenshot (134)](https://user-images.githubusercontent.com/69040605/115184875-5993e700-a0fc-11eb-84fb-da2647a134cf.png)
-
 <h1 align="center">Hi 👋, I'm Amit Jaiswal</h1>
 <h3 align="center">I am Aspiring Data Scientist | Data-Driven Decision Taker | IBM Certified Data Scientist & Data Analyst | Microsoft Certified in AZ-900 & DP-900</h3>
 
