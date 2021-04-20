@@ -12,6 +12,8 @@
 
 - ⚡ My Strengths are **I am Positive & Solution Oriented Person**
 
+- ⚡ My Key skills are **MS-Excel | Tableau| SQL| Power BI| Pandas| Numpy| Matplotlib| Seaborn| Statistics| Linear Regression| Logistics Regression| SVM |Decision Tree| Random Forest| Data Cleaning| Python| Data Visualization|Data Analysis| Data Warehousing| Data Processing| Deep Learning| NLP.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-jaiswal~447453189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-jaiswal~447453189/" height="30" width="40" /></a>
